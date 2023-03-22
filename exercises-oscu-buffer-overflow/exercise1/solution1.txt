@@ -1,0 +1,7 @@
+# exercise 1
+# problem 1
+# Forge two command line arguments that
+# make the application to leak the password that is
+# stored internally.
+hello 50
+# end
